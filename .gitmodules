@@ -1,0 +1,21 @@
+[submodule "libThingSpeak"]
+	path = libThingSpeak
+	url = https://github.com/ATM-HSW/libThingSpeak
+[submodule "libhttp"]
+	path = libhttp
+	url = https://github.com/ATM-HSW/libhttp
+[submodule "exampleThingSpeakReadField"]
+	path = exampleThingSpeakReadField
+	url = https://github.com/ATM-HSW/exampleThingSpeakReadField
+[submodule "exampleThingSpeakReadWeatherStation"]
+	path = exampleThingSpeakReadWeatherStation
+	url = https://github.com/ATM-HSW/exampleThingSpeakReadWeatherStation
+[submodule "exampleThingSpeakWriteField"]
+	path = exampleThingSpeakWriteField
+	url = https://github.com/ATM-HSW/exampleThingSpeakWriteField
+[submodule "exampleThingSpeakWriteChannel"]
+	path = exampleThingSpeakWriteChannel
+	url = https://github.com/ATM-HSW/exampleThingSpeakWriteChannel
+[submodule "libMQTT"]
+	path = libMQTT
+	url = https://github.com/ATM-HSW/libMQTT

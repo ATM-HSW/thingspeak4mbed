@@ -13,7 +13,7 @@ This repository summarizes all
 
 3. MQTT Dependency:
 
-   The ThingSpeak library was extended by MQTT using the https://os.mbed.com/teams/mqtt/ The examples include https://github.com/ATM-HSW/libMQTT and dependencies which are forks of the mercurial repositories https://ohagendorf@os.mbed.com/teams/mqtt/code/MQTT/ and dependencies
+   The ThingSpeak library was extended by MQTT using the https://os.mbed.com/teams/mqtt/ The examples include https://github.com/ATM-HSW/libMQTT and dependencies which are forks of the mercurial repositories https://os.mbed.com/teams/mqtt/code/MQTT/ and dependencies
 
 ### and examples:
 
